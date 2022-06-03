@@ -1,0 +1,136 @@
+1. Air Sprayer :
+	A sprayer is a device used to spray a liquid.
+	In agriculture, a sprayer is a piece of equipment that is used to apply herbicides, pesticides, and fertilizers on agricultural crops. Sprayers range in size from man-portable units (typically backpacks with spray guns) to trailed sprayers that are connected to a tractor, to self-propelled units similar to tractors, with boom mounts of 60–151 feet in length.
+
+2. Hydroponics :
+	Hydroponics is a subset of hydroculture, which is a method of growing plants without soil by using mineral nutrient solutions in a water solvent.[1] Terrestrial plants may be grown with only their roots exposed to the mineral solution, or the roots may be supported by an inert medium, such as perlite or gravel.
+
+	The nutrients used in hydroponic systems can come from an array of different sources; these can include, but are not limited to, byproduct from fish waste, duck manure, or purchased chemical fertilisers.
+
+Static solution culture:
+	In static solution culture, plants are grown in containers of nutrient solution, such as glass Mason jars (typically, in-home applications), plastic buckets, tubs, or tanks. The solution is usually gently aerated but may be un-aerated. If un-aerated, the solution level is kept low enough that enough roots are above the solution so they get adequate oxygen. A hole is cut in the lid of the reservoir for each plant. A single reservoir can be dedicated to a single plant, or to various plants. Reservoir size can be increased as plant size increases. A home made system can be constructed from plastic food containers or glass canning jars with aeration provided by an aquarium pump, aquarium airline tubing and aquarium valves. Clear containers are covered with aluminium foil, butcher paper, black plastic, or other material to exclude light, thus helping to eliminate the formation of algae. The nutrient solution is changed either on a schedule, such as once per week, or when the concentration drops below a certain level as determined with an electrical conductivity meter. Whenever the solution is depleted below a certain level, either water or fresh nutrient solution is added. A Mariotte's bottle, or a float valve, can be used to automatically maintain the solution level. In raft solution culture, plants are placed in a sheet of buoyant plastic that is floated on the surface of the nutrient solution. That way, the solution level never drops below the roots.
+
+3. Tractor :
+	A tractor is an engineering vehicle specifically designed to deliver at a high tractive effort (or torque) at slow speeds, for the purposes of hauling a trailer or machinery used in agriculture or construction. Most commonly, the term is used to describe a farm vehicle that provides the power and traction to mechanize agricultural tasks, especially (and originally) tillage, but nowadays a great variety of tasks. Agricultural implements may be towed behind or mounted on the tractor, and the tractor may also provide a source of power if the implement is mechanised.
+
+The word tractor was taken from Latin, being the agent noun of trahere "to pull". The first recorded use of the word meaning "an engine or vehicle for pulling wagons or ploughs" occurred in 1896, from the earlier term "traction engine" (1859).
+
+National variations :
+	In the UK, the Republic of Ireland, Australia, India, Spain, Argentina, Slovenia, Serbia, Croatia, the Netherlands, and Germany, the word "tractor" usually means "farm tractor", and the use of the word "tractor" to mean other types of vehicles is familiar to the vehicle trade, but unfamiliar to much of the general public. In Canada and the US, the word may also refer to the road tractor portion of a tractor trailer truck, but also usually refers to the piece of farm equipment.
+
+4. Drip irrigation :
+	Drip irrigation is a type of micro-irrigation system that has the potential to save water and nutrients by allowing water to drip slowly to the roots of plants, either from above the soil surface or buried below the surface. The goal is to place water directly into the root zone and minimize evaporation. Drip irrigation systems distribute water through a network of valves, pipes, tubing, and emitters. Depending on how well designed, installed, maintained, and operated it is, a drip irrigation system can be more efficient than other types of irrigation systems, such as surface irrigation or sprinkler irrigation.
+
+	Drip tape is a type of thin-walled dripperline used in drip irrigation. The first drip tape was known as "Dew Hose".
+
+	Drip tape duct tape is made of polyethylene and is sold flat on reels. The wall thickness typically ranges from 4 to 25 mils (0.1–0.6 mm). Thicker walled tapes are commonly used for permanent subsurface drip irrigation and thinner walled tapes for temporary throw-away type systems in high-value crops.
+
+Water exits the tape through emitters or drippers. The typical emitter spacing ranges from 6 to 24 inches (150–600 mm). In some products, the emitters are manufactured simultaneously with the tape and are actually formed as part of the product itself. In others, the emitters are manufactured separately and installed at the time of production.
+
+Some product is not a tape, but a thin-walled dripperline, but in popular parlance, both types of products are called tapes. Typical tape diameters are 5/8", 7/8", and 1-3/8", with the larger diameters more commonly used on permanent installations with longer runs.
+
+Drip tape is a recyclable material and can be recycled into viable plastic resins for reuse in the plastics manufacturing industry.
+		
+5. Cotton picker :
+	The cotton picker is a machine that automates cotton harvesting in a way that reduces harvest time and maximizes efficiency.
+
+	The first pickers were only capable of harvesting one row of cotton at a time, but were still able to replace up to forty hand laborers. The current cotton picker is a self-propelled machine that removes cotton lint and seed (seed-cotton) from the plant at up to six rows at a time.
+
+There are two types of pickers in use today. One is the "stripper" picker, primarily found in use in Texas. They are also found in Arkansas. It removes not only the lint from the plant, but a fair deal of the plant matter as well (such as unopened bolls). Later, the plant matter is separated from the lint through a process dropping heavier matter before the lint makes it to the basket at the rear of the picker. The other type of picker is the "spindle" picker. It uses rows of barbed spindles that rotate at high speed and remove the seed-cotton from the plant. The seed-cotton is then removed from the spindles by a counter-rotating doffer and is then blown up into the basket. Once the basket is full the picker dumps the seed-cotton into a "module builder". The module builder creates a compact "brick" of seed-cotton, weighing in at approximately 21,000 lb (16 un-ginned bales), which can be stored in the field or in the "gin yard" until it is ginned. Each ginned bale weighs roughly 480 lb (218.2 kg).
+
+In c.2008 the Case IH Module Express 625 was designed in collaboration with ginners and growers to provide a cotton picker with the ability to build modules while harvesting the crop.[3] An industry-exclusive on-board round module builder was offered by John Deere in 2007.[4]
+
+6. Rake (tool) :
+	For the brewing tool, see mash rake.
+
+	A rake (Old English raca, cognate with Dutch raak, German Rechen, from the root meaning "to scrape together", "heap up") is a broom for outside use; a horticultural implement consisting of a toothed bar fixed transversely to a handle, and used to collect leaves, hay, grass, etc., and in gardening, for loosening the soil, light weeding and levelling, removing dead grass from lawns, and generally for purposes performed in agriculture by the harrow.[1]
+
+Large mechanized versions of rakes are used in farming, called hay rakes, are built in many different forms (e.g. star-wheel rakes, rotary rakes, etc.). Nonmechanized farming may be done with various forms of a hand rake.
+
+7. Backhoe loader :
+	A backhoe loader, also called a loader backhoe, digger in layman's terms, or colloquially shortened to backhoe within the industry, is a heavy equipment vehicle that consists of a tractor like unit fitted with a loader-style shovel/bucket on the front and a backhoe on the back. Due to its (relatively) small size and versatility, backhoe loaders are very common in urban engineering and small construction projects (such as building a small house, fixing urban roads, etc.) as well as developing countries. This type of machine is similar to and derived from what is now known as a TLB (Tractor-Loader-Backhoe), which is to say, an agricultural tractor fitted with a front loader and rear backhoe attachment.
+
+The true development of the backhoe actually began in 1947 by the inventors that started the Wain-Roy Corporation of Hubbardston, Massachusetts. In 1947 Wain-Roy Corporation developed and tested the first actual backhoes. In April 1948 Wain-Roy Corporation sold the very first all hydraulic backhoes, mounted to a Ford Model 8N tractor, to the Connecticut Light and Power Company for the sum of $705.
+
+	Backhoe loaders are very common and can be used for a wide variety of tasks: construction, small demolitions, light transportation of building materials, powering building equipment, digging holes/excavation, landscaping, breaking asphalt, and paving roads. Often, the backhoe bucket can also be replaced with powered attachments such as a breaker, grapple, auger, or a stump grinder. Enhanced articulation of attachments can be achieved with intermediate attachments such as the tiltrotator. Many backhoes feature quick coupler (quick-attach) mounting systems and auxiliary hydraulic circuits for simplified attachment mounting, increasing the machine's utilization on the job site. Some loader buckets have a retractable bottom or "clamshell", enabling it to empty its load more quickly and efficiently. Retractable-bottom loader buckets are also often used for grading and scraping. The front assembly may be a removable attachment or permanently mounted.
+
+Because digging while on tires intrinsically causes the machine to rock, and the swinging weight of the backhoe could cause the vehicle to tip, most backhoe loaders use hydraulic outriggers or stabilizers at the rear when digging and lower the loader bucket for additional stability. This means that the bucket must be raised and the outriggers retracted when the vehicle needs to change positions, reducing efficiency. For this reason many companies offer miniature tracked excavators, which sacrifice the loader function and ability to be driven from site to site, for increased digging efficiency.
+
+Their relatively small frame and precise control make backhoe-loaders very useful and common in urban engineering projects such as construction and repairs in areas too small for larger equipment. Their versatility and compact size makes them one of the most popular urban construction vehicles. For larger projects, a tracked excavator is generally used.
+
+In recent years, small compact tractors have become very popular with private homeowners. Subcompact tractors, the size between a compact tractor and lawn tractor, are also often sold in backhoe loader setup, sometimes with a belly-mounted mower also included. These tractors offer private homeowners the ability to perform minor excavation projects.
+
+8. Flail mower : 
+	A flail mower is a type of powered garden/agricultural equipment, which is used to deal with heavier grass/scrub which a normal lawn mower could not cope with. Some smaller models are self-powered, but many are PTO driven implements, which can attach to the three-point hitches found on the rear of most tractors. This type of mower is best used to provide a rough cut to taller grass where contact with loose debris may be possible such as roadsides.
+
+The flail mower gets its name from the use of flails attached to its rotating horizontal drum (also called tube, rotor, or axle). Many implement companies also refer to the flails as knives or blades. The rows of flails are usually staggered to provide a complete cut. The flails are attached to the drum using chain links or brackets, depending on the manufacturer. The rotating drum is parallel to the axle of the tractor. The PTO driveshaft along the tractor's axis must make a right angle through the use of a gearbox in order to transfer its rotational energy to the drum. As the drum rotates, centrifugal force pushes the flails outward.[1]
+
+Standard flails are shaped like an extruded "T" or "Y" and a chain attaches to the bottom. There are also proprietary flails with various shapes for shredding larger brush and others that leave a smooth, finish cut.
+
+If a flail strikes an immovable object, it simply bounces off. Other rotary type mowers have a tendency to grab and throw the object out of the mower deck if its small enough. This fact makes the flail mower best suited for areas where thrown objects would cause damage.
+
+Flail mowers may also be used in a more or less upright position for trimming the sides of hedges. They are often called hedge cutters (or sometimes also hedge trimmers) then. Especially in forestry (agroforestry) some very robust variants of flail mowers – called flail mulchers, flail shredders, or flail choppers – are used.
+
+9. Reaper :
+	A reaper is a farm implement or person that reaps (cuts and often also gathers) crops at harvest when they are ripe. Usually the crop involved is a cereal grass. The first documented reaping machines were Gallic reaper that was used in modern day France during Roman times. The Gallic reaper involved a comb which collected the heads, with an operator knocking the grain into a box for later threshing.
+
+Most modern mechanical reapers cut the grass; most also gather it, either by windrowing it or picking it up. Modern machines that not only cut and gather the grass but also thresh its seeds (the grain), winnow the grain, and deliver it to a truck or wagon it are called combine harvesters or simply combines; they are the engineering descendants of earlier reapers.
+
+Hay is harvested somewhat differently from grain; in modern haymaking, the machine that cuts the grass is called a hay mower or, if integrated with a conditioner, a mower-conditioner. As a manual task, cutting of both grain and hay may be called reaping, involving scythes, sickles, and cradles, followed by differing downstream steps. Traditionally all such cutting could be called reaping, although a distinction between reaping of grain grasses and mowing of hay grasses has long existed; it was only after a decade of attempts at combined grain reaper/hay mower machines (1830s to 1840s) that designers of mechanical implements began resigning them to separate classes.[2]
+
+Mechanical reapers substantially changed agriculture from their appearance in the 1830s until the 1860s through 1880s, when they evolved into related machines, often called by different names (self-raking reaper, harvester, reaper-binder, grain binder, binder), that collected and bound the sheaves of grain with wire or twine.[3] Today reapers and grain binders have been largely replaced by combines in commercial farming, but some smaller farms still use them.
+
+10. Hedge trimmer :
+	A hedge trimmer, shrub trimmer, or bush trimmer,[1] is a gardening tool or machine used for trimming (cutting, pruning) hedges or solitary shrubs (bushes). Different designs as well as manual and powered versions of hedge trimmers exist.
+
+Types :
+1). Stand-alone hedge trimmers
+The power source of stand-alone hedge trimmers can be human power, gasoline, or electricity.
+
+Manual hedge trimmers (sometimes also called hedge shears, or hedge clippers) are designed as large scissors or large pruning shears. They do not need anything to operate and are cheapest/most environmentally friendly.
+Motorized hedge trimmers allow work to be done faster and with less effort than manual ones. Their cutting mechanism is similar to that of finger-bar mowers. Powered trimmers are generally designed with safety devices such that they work only when both of the operator's hands are on the handles.
+Gasoline-powered trimmers tend to be more powerful but can be heavier and more difficult to start.
+Electrical trimmers tend to be lighter and less powerful (than gasoline variants) as well as less polluting/noisy, yet still require an electrical cord with most types (if not equipped with rechargeable batteries).
+
+2). Tractor-mounted hedge trimmers
+Tractor-mounted and tractor-driven hedge trimmers also exist, but are not that common. These machines consist of a moveable arm (hydraulic boom) with a large hedge trimmer attachment at its end. Their cutting mechanism is similar to that of finger-bar mowers.
+
+Such large hedge trimmers are often confused with tractor-mounted reach flail mowers (booms with flail mower attachments), which appear similar due to the use of booms. And in colloquial language both, tractor-mounted hedge trimmers and reach flail mowers, are imprecisely called hedge cutters, or brush cutters. In contrast to tractor-mounted hedge trimmers, reach flail mowers have a different cutting mechanism, and are not only used for trimming hedges, but also in several other fields of application (mowing taller grass, road verge cutting, ditch maintenance, etc.).
+
+11. McHale :
+	McHale is a firm manufacturing a range of farm machinery. McHale is located in the West of Ireland in the town of Ballinrobe, which is approximately 40 km North of Galway City. McHale manufacture numerous products including Integrated Baler Wrappers, Balers, Wrappers, Bale Handling Equipment, Shear Grabs and Bale Splitters.
+
+McHale Today :
+	McHale Engineering now exports 90% of its equipment to over 44 different countries across five continents.
+
+McHale has ISO9002 accreditation and has made significant investments in the latest production technology - CNC laser cutting equipment, robotic welders and the latest CAD - CAM design and manufacturing systems.
+
+12. Grain drying :
+	Hundreds of millions of tonnes of wheat, corn, soybean, rice and other grains as sorghum, sunflower seeds, rapeseed/canola, barley, oats, etc., are dried in grain dryers. In the main agricultural countries, drying comprises the reduction of moisture from about 17-30%w/w to values between 8 and 15%w/w, depending on the grain. The final moisture content for drying must be adequate for storage. The more oil the grain has, the lower its storage moisture content will be (though its initial moisture for drying will also be lower). Cereals are often dried to 14% w/w, while oilseeds, to 12.5% (soybeans), 8% (sunflower) and 9% (peanuts). Drying is carried out as a requisite for safe storage, in order to inhibit microbial growth. However, low temperatures in storage are also highly recommended to avoid degradative reactions and, especially, the growth of insects and mites. A good maximum storage temperature is about 18 °C.
+
+	The largest dryers are normally used "Off-farm", in elevators, and are of the continuous type: Mixed-flow dryers are preferred in Europe, while Cross-flow dryers in the United States. In Argentina, both types are commonly found. Continuous flow dryers may produce up to 100 metric tonnes of dried grain per hour. The depth of grain the air must traverse in continuous dryers range from some 0.15 m in Mixed flow dryers to some 0.30 m in Cross-Flow. Batch dryers are mainly used "On-Farm", particularly in the United States and Europe. They normally consist of a bin, with heated air flowing horizontally from an internal cylinder through an inner perforated metal sheet, then through an annular grain bed, some 0.50 m thick (coaxial with the internal cylinder) in radial direction, and finally across the outer perforated metal sheet, before being discharged to the atmosphere. The usual drying times range from 1 h to 4 h depending on how much water must be removed, type of grain, air temperature and the grain depth. In the United States, continuous counterflow dryers may be found on-farm, adapting a bin to slowly drying grain fed at the top and removed at the bottom of the bin by a sweeping auger.
+
+	Grain drying is an active area of manufacturing and research. The performance of a dryer can be simulated with computer programs based on mathematical models that represent the phenomena involved in drying: physics, physical chemistry, thermodynamics, and heat and mass transfer. Most recently computer models have been used to predict product quality by achieving a compromise between drying rate, energy consumption, and grain quality. A typical quality parameter in wheat drying is breadmaking quality and germination percentage whose reductions in drying are somewhat related.
+
+Grain Drying fundamentals :
+	Drying starts at the bottom of the bin, which is the first place air contacts. The dry air is brought up by the fan through a layer of wet grain. Drying happens in a layer of 1 to 2 feet thick, which is called the drying zone. The drying zone moves from the bottom of the bin to the top, and when it reaches the highest layer, the grain is dry. The grain below drying zone is in equilibrium moisture content with drying air, which means it is safe for storage; while the grain above still needs drying. The air is then forced out the bin through exhaust vent.
+
+Allowable Storage Time :
+	Allowable storage time is an estimate of how long the grain needs to be dried before spoilage and maintain grain quality during storage. In grain storage process, fungi or molds are the primary concern. Many other factors, such as insects, rodents, and bacteria, also affect the condition of storage. The lower the grain temperature is, the longer the allowable storage time will be.
+
+13. Drag harrow : 
+	A drag harrow, a type of spring-tooth harrow, is a largely outdated type of soil cultivation implement that is used to smooth the ground as well as loosen it after it has been plowed and packed. It uses many flexible iron teeth usually arranged into three rows. It has no hydraulic functionality and has to be raised/adjusted with one or multiple manual levers. It is a largely outdated piece of farm equipment, having been replaced by more modern disc harrows and hydraulically operated field cultivators.
+
+Uses :
+	A drag harrow is used to loosen and even out soil after it has been plowed and packed. It pulls up large rocks which may then be picked up manually and put in the tractor's stone box to remove from the field. The drag harrow also kills some weeds that may be present, but it is not very efficient in doing so due to its highly flexible teeth, hence it is not one of its primary functions.
+
+In modern times :
+	The drag harrow is not often used in modern farming as other harrows have proven to be more suitable, such as the disc harrow. Another reason they are not often used is because they cannot be controlled hydraulically, meaning that the operator is required to dismount from the tractor to adjust it or unclog it. However it is used as a drag behind several other implements such as a rod weeder. Due to their low cost and simplicity, drag harrows are still used widely by small farmers.
+
+14. Cultipacker :
+	A cultipacker is a piece of agricultural equipment that crushes dirt clods, removes air pockets, and presses down small stones, forming a smooth, firm seedbed. Where seed has been broadcast, the roller gently firms the soil around the seeds, ensuring shallow seed placement and excellent seed-to-soil contact.
+
+	The term cultipacker is almost exclusively applied to ridged rollers, while the terms field roller or land roller may refer to either a smooth or a ridged roller. Some farmers treat the terms as mutually exclusive, but many others treat the ridged tools as a class of field rollers. For example, C.H. Wendel's Encyclopedia of American Farm Implements and Antiques covers the whole category as land rollers. The term cultipacker appeared in English around 1914 and probably originated as a brand name of the C.G. Dunham Company of Berea, Ohio, which advertised "Culti-Packer" models starting around that time. That company did not have the ridged-roller subcategory to itself by any stretch, as Wendel's book demonstrates, but for whatever reason, its name for its version stuck well in many minds. By the 1920s and ever since, it has been widely used in a genericized sense, at least in some regions of the U.S. if not nationwide. In Britain, an equivalent tool is usually called a Cambridge roller or Cambridge roll; D.J. Smith's Discovering Horse-drawn Farm Machinery says, "The Cambridge roll, named after its makers, was a ring roller made up of numerous equally spaced rings or ridges."
+
+Despite the suggestion of soil compaction in the "packer" part of the name, cultipackers and other land rollers exert high pressure only on the high spots (such as clods); the baseline pressure at the rest of the footprint is not especially high, which is to say, not higher than a person's footprint pressure. A person intentionally stomping hard on a particular spot can pack the dirt tighter than a cultipacker packs it. This is appropriate because seedbeds need only be firm, not excessively compacted.
+
